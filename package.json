@@ -1,0 +1,20 @@
+{
+  "name": "ts_bowling",
+  "version": "1.0.0",
+  "description": "simple scoring of a game of bowling",
+  "main": "build/src/app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Will Smith",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "@babel/preset-typescript": "^7.24.7",
+    "@jest/globals": "^29.7.0",
+    "babel-jest": "^29.7.0",
+    "ts-jest": "^29.2.4",
+    "typescript": "^5.5.4"
+  }
+}
